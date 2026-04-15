@@ -1,132 +1,116 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7F5AF0,30:2CB67D,60:3DA9FC,100:F25F4C&text=Radhika%20Patel&fontSize=52&fontAlignY=38&desc=Product%20%7C%20Growth%20%7C%20Analytics&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:7F5AF0,25:2CB67D,50:3DA9FC,75:F25F4C,100:FF8906&text=Radhika%20Patel&fontSize=54&fontAlignY=38&desc=Product%20%7C%20Growth%20%7C%20Analytics&descAlignY=60&animation=fadeIn" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&center=true&vCenter=true&width=1000&lines=Building+products+and+analytics+that+drive+real+business+impact;4%2B+years+across+fintech%2C+reinsurance%2C+and+financial+services;MS+in+Marketing+Analytics+at+Purdue+%7C+Graduating+May+2026;SQL+%E2%80%A2+Python+%E2%80%A2+Product+Strategy+%E2%80%A2+Growth+%E2%80%A2+Experimentation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1000&center=true&vCenter=true&width=1100&lines=Building+products+and+analytics+that+drive+real+business+impact;4%2B+years+across+fintech%2C+reinsurance%2C+and+financial+services;MS+in+Marketing+Analytics+at+Purdue+University;Python+%E2%80%A2+SQL+%E2%80%A2+Product+Strategy+%E2%80%A2+Growth+%E2%80%A2+Experimentation;Turning+messy+problems+into+clear+systems+and+measurable+results)](https://git.io/typing-svg)
 
 <br/>
+<br/>
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/radhika-pat3l">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/radhikapat3l">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="YOUR_PORTFOLIO_LINK">
-  <img src="https://img.shields.io/badge/Portfolio-View%20Work-7F5AF0?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:radhika200700p@gmail.com">
   <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="https://github.com/radhikapat3l/geotrade">
+  <img src="https://img.shields.io/badge/Project-GeoTrade-7F5AF0?style=for-the-badge&logo=googleearth&logoColor=white" />
+</a>
+<a href="https://github.com/radhikapat3l/cf-feedback-hub">
+  <img src="https://img.shields.io/badge/Project-Feedback%20Hub-2CB67D?style=for-the-badge&logo=cloudflare&logoColor=white" />
+</a>
 
 <br/>
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=7F5AF0&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=radhikapat3l&label=Profile%20Views&color=7F5AF0&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Open%20to-Product%20%7C%20Growth%20%7C%20Analytics-2CB67D?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Location-West%20Lafayette%2C%20IN-3DA9FC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Location-USA-3DA9FC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Graduation-May%202026-FF8906?style=for-the-badge" />
 
 </div>
 
 ---
 
-<h2 align="center">✨ About Me</h2>
+## ✨ About Me
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 👋 Hi, I'm Radhika
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ0M2VhZXA0czJxdXZnMXkwYjM5cnllOTJjODk2MWh5NHNjcnZzbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif">
 
 I work at the intersection of **product, analytics, growth, and operations**.
 
 My background spans **institutional fintech, reinsurance, and financial services**, where I have built automation, improved workflows, launched product features, and used data to drive faster and smarter decisions.
 
-I like solving messy business problems, turning them into clear systems, and building things that people actually use.
-
-</td>
-<td width="50%" valign="top">
+I like solving messy business problems, turning them into structured systems, and building things that are actually useful.
 
 ### 🚀 Quick Snapshot
 
-- 🎓 **MS in Marketing Analytics**, Purdue University  
-- 💼 **4+ years** of experience  
-- 🐍 Strong in **Python, SQL, A/B testing, dashboards**  
-- 📈 Interested in **Product, Growth, GTM, Analytics**  
-- 🏦 Domain depth in **fintech, trading ops, settlement, reinsurance**  
-- 🌍 Open to full-time opportunities in the US  
+- 🎓 **MS in Marketing Analytics (STEM)** at Purdue University  
+- 💼 **4+ years** across fintech, reinsurance, and consulting  
+- 🐍 Strong in **Python, SQL, A/B testing, analytics, automation**
+- 📈 Interested in **Product, Growth, GTM, Analytics, Strategy**
+- 🏦 Domain depth in **trade settlement, financial workflows, reinsurance, product analytics**
+- 🌍 Open to **full-time opportunities in the US**
 
-</td>
-</tr>
-</table>
+<br clear="right"/>
+
+---
+
+## 📊 Impact Highlights
+
+<div align="center">
+
+| Metric | Impact |
+|---|---|
+| ⚡ Manual work reduced | **96%** |
+| ⏱ Client scoping faster | **80%** |
+| 😊 Customer satisfaction | **91% CSAT** |
+| 🚀 Feature execution | **12 releases in 12 months** |
+| 🔁 Reconciliation cycle time | **40% faster** |
+| 📉 Break resolution time | **30% lower** |
 
 </div>
 
 ---
 
-<h2 align="center">📊 Impact Highlights</h2>
+## 🛠 Tech Stack
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/96%25-Manual%20dependency%20reduction-7F5AF0?style=for-the-badge" />
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/80%25-Faster%20client%20scoping-2CB67D?style=for-the-badge" />
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/91%25-CSAT%20driven-3DA9FC?style=for-the-badge" />
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/12-Releases%20shipped%20in%2012%20months-F25F4C?style=for-the-badge" />
-</td>
-</tr>
-</table>
+### Languages, Data, and Analytics
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,aws,git,github" />
+<br/><br/>
+<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/A%2FB%20Testing-111827?style=for-the-badge&logo=googleanalytics&logoColor=F9AB00" />
+<img src="https://img.shields.io/badge/Statistical%20Analysis-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+<img src="https://img.shields.io/badge/API%20Integration-111827?style=for-the-badge&logo=fastapi&logoColor=00C7B7" />
+
+### BI, Product, and Visualization
+<img src="https://img.shields.io/badge/Tableau-0F172A?style=for-the-badge&logo=tableau&logoColor=E97627" />
+<img src="https://img.shields.io/badge/Power%20BI-0F172A?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+<img src="https://img.shields.io/badge/Looker%20Studio-0F172A?style=for-the-badge&logo=looker&logoColor=4285F4" />
+<img src="https://img.shields.io/badge/Google%20Analytics-0F172A?style=for-the-badge&logo=googleanalytics&logoColor=E37400" />
+<img src="https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+<img src="https://img.shields.io/badge/Qualtrics-0F172A?style=for-the-badge&logo=qualtrics&logoColor=00B4EF" />
+
+### Workflow and Collaboration
+<img src="https://img.shields.io/badge/Jira-111827?style=for-the-badge&logo=jira&logoColor=0052CC" />
+<img src="https://img.shields.io/badge/Confluence-111827?style=for-the-badge&logo=confluence&logoColor=172B4D" />
+<img src="https://img.shields.io/badge/Notion-111827?style=for-the-badge&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Financial%20Data%20Pipelines-111827?style=for-the-badge&logo=databricks&logoColor=FF3621" />
+<img src="https://img.shields.io/badge/Product%20Analytics-111827?style=for-the-badge&logo=mixpanel&logoColor=7856FF" />
+<img src="https://img.shields.io/badge/Funnel%20Analysis-111827?style=for-the-badge&logo=googleanalytics&logoColor=34A853" />
 
 </div>
 
 ---
 
-<h2 align="center">🛠 Tech Stack</h2>
-
-<div align="center">
-
-### Languages and Analytics
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B)
-![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=336791)
-![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-111827?style=for-the-badge&logo=googleanalytics&logoColor=E37400)
-![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-
-### Visualization and Product Analytics
-![Tableau](https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau&logoColor=E97627)
-![Power BI](https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-111827?style=for-the-badge&logo=looker&logoColor=4285F4)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-111827?style=for-the-badge&logo=googleanalytics&logoColor=E37400)
-![Qualtrics](https://img.shields.io/badge/Qualtrics-111827?style=for-the-badge&logo=qualtrics&logoColor=00B4EF)
-
-### Product and Workflow
-![Jira](https://img.shields.io/badge/Jira-111827?style=for-the-badge&logo=jira&logoColor=0052CC)
-![Confluence](https://img.shields.io/badge/Confluence-111827?style=for-the-badge&logo=confluence&logoColor=172B4D)
-![Figma](https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Notion](https://img.shields.io/badge/Notion-111827?style=for-the-badge&logo=notion&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-
-</div>
-
----
-
-<h2 align="center">🌟 Featured Projects</h2>
-
-<div align="center">
+## 🌟 Featured Projects
 
 <table>
 <tr>
@@ -135,40 +119,41 @@ I like solving messy business problems, turning them into clear systems, and bui
 ### 🌍 GeoTrade  
 **Geopolitical Crypto Signals Platform**
 
-A real-time web app that converts geopolitical events into explainable crypto trading signals using live event data and an interactive 3D globe.
+A real-time web app that converts geopolitical events into explainable crypto signals through live event feeds and an interactive globe experience.
 
-**What it does**
-- Maps major events to asset-level impact
+#### Highlights
+- Maps major global events to asset-level impact
 - Surfaces directional signals across BTC, ETH, and altcoins
-- Makes market narratives easier to understand visually
+- Makes complex market narratives easier to understand visually
 
-**Stack**
-`Next.js` `React` `APIs` `3D Visualization`
+#### Stack
+`Next.js` `React` `Live APIs` `Data Visualization`
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GEOTRADE_REPO">
+<a href="https://github.com/radhikapat3l/geotrade">
   <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI-Powered Feedback Intelligence Platform
+### 🤖 AI-Powered Feedback Intelligence Platform  
+**Cloudflare Workers + LLM APIs + D1**
 
-A serverless platform built to collect, categorize, and analyze product feedback in real time.
+A serverless platform built to collect, categorize, and analyze product feedback in real time for product teams.
 
-**What it does**
+#### Highlights
 - Auto-categorizes incoming feedback
-- Runs sentiment analysis with LLM workflows
-- Highlights top product pain points through live dashboards
+- Uses AI workflows for sentiment and prioritization
+- Surfaces top pain points in a live dashboard
 
-**Impact**
+#### Impact
 - Reduced manual feedback processing by **80%**
 - Made multi-source product feedback easier to track and act on
 
-**Stack**
+#### Stack
 `Cloudflare Workers` `LLM APIs` `D1` `Dashboards`
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_FEEDBACK_REPO">
+<a href="https://github.com/radhikapat3l/cf-feedback-hub">
   <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -176,13 +161,9 @@ A serverless platform built to collect, categorize, and analyze product feedback
 </tr>
 </table>
 
-</div>
-
 ---
 
-<h2 align="center">💼 Experience Highlights</h2>
-
-<div align="center">
+## 💼 Experience Highlights
 
 <table>
 <tr>
@@ -194,7 +175,7 @@ A serverless platform built to collect, categorize, and analyze product feedback
 - Built Python automation that eliminated **96%** of manual trade dependencies
 - Reduced reconciliation cycle time by **40%**
 - Used SQL and DTCC workflows to improve settlement accuracy
-- Standardized trade lifecycle reporting across counterparties
+- Standardized trade lifecycle reporting across 10+ counterparties
 
 </td>
 <td width="33%" valign="top">
@@ -202,9 +183,9 @@ A serverless platform built to collect, categorize, and analyze product feedback
 ### Swiss Re  
 **Product Analyst**
 
-- Owned lifecycle for CATNET product releases
+- Owned product lifecycle for CATNET releases
 - Built a pricing and sales calculator that made client scoping **80% faster**
-- Synthesized customer feedback into roadmap priorities
+- Turned customer feedback into roadmap priorities
 - Drove **91% CSAT** through data-driven product improvements
 
 </td>
@@ -214,100 +195,71 @@ A serverless platform built to collect, categorize, and analyze product feedback
 **Associate Analyst**
 
 - Analyzed transaction data for AML and fraud investigations
-- Improved fraud detection accuracy through Python and SQL analysis
+- Improved fraud detection through Python and SQL analysis
 - Translated business requirements into future-state process maps
-- Worked across structured financial services workflows
+- Worked across financial services workflows and stakeholder teams
 
 </td>
 </tr>
 </table>
 
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=radhikapat3l&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=radhikapat3l&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=radhikapat3l&theme=tokyo-night&hide_border=true&area=true" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=radhikapat3l&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+
 </div>
 
 ---
 
-<h2 align="center">📈 GitHub Analytics</h2>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-
-</div>
-
----
-
-<h2 align="center">🎯 What I Bring</h2>
-
-<div align="center">
+## 🧠 What I Bring
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### Business Side
-- Strong product and growth thinking  
-- Can turn ambiguity into structure  
-- Comfortable with cross-functional teams  
-- Focused on measurable business outcomes  
-- Good at translating stakeholder needs into execution  
+- Product and growth thinking
+- Strong stakeholder communication
+- Able to turn ambiguity into structure
+- Focused on measurable business outcomes
+- Good at aligning execution with user and business needs
 
 </td>
 <td width="50%" valign="top">
 
 ### Technical Side
-- SQL and Python for problem solving  
-- Experimentation and funnel analysis  
-- Dashboarding and reporting workflows  
-- Process automation and analytics infrastructure  
-- Ability to connect data with decision-making  
+- SQL and Python for solving real business problems
+- Experimentation, funnel analysis, and performance tracking
+- Dashboarding, reporting, and workflow automation
+- Ability to connect data with product and decision-making
+- Comfortable in regulated and operationally complex environments
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-<h2 align="center">📬 Let's Connect</h2>
+## 🎯 Current Focus
 
-<div align="center">
-
-<a href="YOUR_LINKEDIN_LINK">
-  <img src="https://img.shields.io/badge/LinkedIn-Radhika%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="YOUR_PORTFOLIO_LINK">
-  <img src="https://img.shields.io/badge/Portfolio-See%20My%20Work-7F5AF0?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/>
-<br/>
-
-<b>Open to full-time roles in Product, Growth, GTM, Analytics, and Strategy.</b>
-
-<br/>
-<br/>
-
-<i>I like building things that are useful, measurable, and hard to ignore.</i>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7F5AF0,30:2CB67D,60:3DA9FC,100:F25F4C" />
-
-</div>
+```python
+current_focus = {
+    "degree": "MS in Marketing Analytics @ Purdue University",
+    "interests": ["Product", "Growth", "Analytics", "GTM", "Strategy"],
+    "domains": ["Fintech", "B2B SaaS", "Data Products", "Financial Services"],
+    "building": ["GeoTrade", "Feedback Intelligence Platform", "Portfolio Projects"],
+    "strength": "Turning data, product thinking, and execution into measurable impact"
+}
